@@ -1,8 +1,8 @@
 class Convos < Formula
   desc "Search & resume your AI coding conversations across every tool"
   homepage "https://github.com/alialfredji/convos"
-  url "https://github.com/alialfredji/convos/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "185b407ddb3212b8a736ebf230e50da57e192300827c880df0b09cf56443fb3c"
+  url "https://github.com/alialfredji/convos/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "e1f4566f37ed9f19d9c55619636b47d6279740a49789bf9d4d7c68833dad91bc"
   license "MIT"
   head "https://github.com/alialfredji/convos.git", branch: "main"
 
